@@ -1,0 +1,17 @@
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.1\SearchAPI.deps.json
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.1\SearchAPI.runtimeconfig.json
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.1\SearchAPI.runtimeconfig.dev.json
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.1\SearchAPI.dll
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.1\SearchAPI.pdb
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.csprojAssemblyReference.cache
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.AssemblyInfoInputs.cache
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.AssemblyInfo.cs
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.csproj.CoreCompileInputs.cache
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.RazorAssemblyInfo.cache
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.RazorAssemblyInfo.cs
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.RazorTargetAssemblyInfo.cache
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.dll
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.pdb
+C:\Users\josei\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.1\SearchAPI.genruntimeconfig.cache
